@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Choose</name>
+   <tag></tag>
+   <elementGuidId>702c2326-7e54-4958-9448-b91d38a3a84a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ng-tns-c54-696.ui-multiselect.ui-widget.ui-state-default.ui-corner-all</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/div/app-case360/div[2]/div/div/div[2]/div/app-case360-activity/roots-dialog/div/div[2]/app-usertask/form/div/div/div/div[2]/div/roots-multiselect/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d554a051-96e5-4cd2-8578-d21be5f52e4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c54-696 ui-multiselect ui-widget ui-state-default ui-corner-all</value>
+      <webElementGuid>2fa15c0d-c4e1-4fca-a609-7e1ef594f34b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Choose</value>
+      <webElementGuid>46bc9ff6-b9f9-4db0-b7a1-db5af764758b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;bg-white min-height-600&quot;]/div[@class=&quot;bg-E3E3E3&quot;]/app-case360[@class=&quot;ng-star-inserted&quot;]/div[2]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9 col-xl-9 mb-3 mb-lg-0 pl-lg-0 pl-xl-0&quot;]/div[@class=&quot;clearfix h-100 bg-white&quot;]/app-case360-activity[@class=&quot;ng-star-inserted&quot;]/roots-dialog[@class=&quot;ng-tns-c52-657 ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c52-657 col-xl-8 col-lg-8 col-md-8 px-0 ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-dialog-draggable ui-dialog-resizable ng-star-inserted&quot;]/div[@class=&quot;ui-dialog-content ui-widget-content ng-tns-c52-657&quot;]/app-usertask[@class=&quot;ng-tns-c52-657 ng-star-inserted&quot;]/form[@class=&quot;ng-invalid ng-star-inserted ng-touched ng-dirty&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-5 ng-star-inserted&quot;]/div[@class=&quot;form-group&quot;]/roots-multiselect[@class=&quot;roots-form-control ng-tns-c54-696 ui-inputwrapper-filled ng-untouched ng-pristine ng-invalid ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c54-696 ui-multiselect ui-widget ui-state-default ui-corner-all&quot;]</value>
+      <webElementGuid>5bfc317d-a2b3-4a84-a295-5a89fe489832</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/app-case360/div[2]/div/div/div[2]/div/app-case360-activity/roots-dialog/div/div[2]/app-usertask/form/div/div/div/div[2]/div/roots-multiselect/div</value>
+      <webElementGuid>9a9d3cfe-7805-4e20-8868-3b70e7f64eb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::div[1]</value>
+      <webElementGuid>4c6fd7b6-5348-43c4-bb59-ffee9af25994</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/roots-multiselect/div</value>
+      <webElementGuid>d94c2320-36ab-481c-8d78-8db8cc63e7a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Choose' or . = 'Choose')]</value>
+      <webElementGuid>a7e430b9-3d87-479a-b0e1-e0ba71c8d232</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

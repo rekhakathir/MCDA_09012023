@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select_ui-dropdown-trigger-icon ui-cli_4a5384</name>
+   <tag></tag>
+   <elementGuidId>00fda5a0-0574-4996-a371-acdfa197439d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/div/app-case360/div[2]/div/div/div[2]/div/app-event-information/div/app-case360-events/div/app-addcase360-events/div/form/div[2]/div/div/div[12]/div/roots-dropdown/div/div[4]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-dropdown-trigger-icon.ui-clickable.ng-tns-c50-205.fas.fa-angle-down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1077d6ec-dbc4-44ce-9bc7-a09fba976d03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-dropdown-trigger-icon ui-clickable ng-tns-c50-205 fas fa-angle-down</value>
+      <webElementGuid>ab922978-8240-4df7-9333-fcf90bf3b70c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;bg-white min-height-600&quot;]/div[@class=&quot;bg-E3E3E3&quot;]/app-case360[@class=&quot;ng-star-inserted&quot;]/div[2]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9 col-xl-9 mb-3 mb-lg-0 pl-lg-0 pl-xl-0&quot;]/div[@class=&quot;clearfix h-100 bg-white&quot;]/app-event-information[@class=&quot;ng-star-inserted&quot;]/div[1]/app-case360-events[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/app-addcase360-events[1]/div[@class=&quot;container-fluid&quot;]/form[@class=&quot;ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;event-tab&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4 ng-star-inserted&quot;]/div[@class=&quot;form-group&quot;]/roots-dropdown[@class=&quot;select-option ng-tns-c50-205 ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c50-205 ui-dropdown ui-widget ui-state-default ui-corner-all ui-helper-clearfix ui-dropdown-clearable&quot;]/div[@class=&quot;ui-dropdown-trigger ui-state-default ui-corner-right ng-tns-c50-205&quot;]/span[@class=&quot;ui-dropdown-trigger-icon ui-clickable ng-tns-c50-205 fas fa-angle-down&quot;]</value>
+      <webElementGuid>da6b6c21-bb30-4879-a2c6-c3a0d65b69a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/app-case360/div[2]/div/div/div[2]/div/app-event-information/div/app-case360-events/div/app-addcase360-events/div/form/div[2]/div/div/div[12]/div/roots-dropdown/div/div[4]/span</value>
+      <webElementGuid>ee0afdc2-56ad-4aa1-8045-94523eda7542</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/div/roots-dropdown/div/div[4]/span</value>
+      <webElementGuid>7d34c286-314a-435b-ba31-a04d34402974</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

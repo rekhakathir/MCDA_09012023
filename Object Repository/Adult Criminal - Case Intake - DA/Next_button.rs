@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Next_button</name>
+   <tag></tag>
+   <elementGuidId>bd1cac6f-f74c-4e66-938a-5d8eb5dcc055</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and (text() = 'Next' or . = 'Next')]
+</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@class='ml-auto ng-star-inserted']//button[@type='button'][normalize-space()='Next']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ml-auto.ng-star-inserted > button.btn.btn-primary.px-4.mb-sm-0.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6223a0f9-d62b-4e8a-a412-077a526cbd82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4bf4db4c-d4fc-4524-84e0-e9c461338aef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary px-4 mb-sm-0 ng-star-inserted</value>
+      <webElementGuid>49db8eeb-2c08-4b15-9b02-c5fb51999ffc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next</value>
+      <webElementGuid>96b8a47e-6faa-43f1-92a3-c562e7e2dce9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[@class='ml-auto ng-star-inserted']//button[@type='button'][normalize-space()='Next']</value>
+      <webElementGuid>7efaafc6-312a-4f14-94cb-cf2bb0aead33</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[8]</value>
+      <webElementGuid>e9d715b9-53c3-41cb-bf2d-a310d454382b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/app-case-intake/div[2]/div/div/div/div/div/div[3]/span/button</value>
+      <webElementGuid>2461606d-f0ca-4e2c-9c51-9480366352d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Offense To Date :'])[1]/following::button[1]</value>
+      <webElementGuid>cd87e390-c66c-48c2-bd21-616ef6f40447</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Offense From Date :'])[1]/following::button[1]</value>
+      <webElementGuid>42979b0e-7d74-439b-80c6-b76d5f8199df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Overview'])[1]/preceding::button[1]</value>
+      <webElementGuid>5d26c62a-f705-4f21-8a18-426bf179a639</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leadership'])[1]/preceding::button[1]</value>
+      <webElementGuid>5799ffa2-b665-4356-8aeb-b8284cddc0b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/span/button</value>
+      <webElementGuid>730a1e50-32bf-428f-a817-1ceb17916ec9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Next' or . = 'Next')]</value>
+      <webElementGuid>bf3f418f-71a8-4f2e-8e7d-8363cc555020</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

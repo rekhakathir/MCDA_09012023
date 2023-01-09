@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>FileLocation_Save</name>
+   <tag></tag>
+   <elementGuidId>de1d19c8-78e7-4790-9078-a9eb8f1aacbe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[contains(text(),'Save')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[contains(text(),'Save')]</value>
+      <webElementGuid>cb89b6cb-0918-4de1-b7cf-71d04a771b91</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

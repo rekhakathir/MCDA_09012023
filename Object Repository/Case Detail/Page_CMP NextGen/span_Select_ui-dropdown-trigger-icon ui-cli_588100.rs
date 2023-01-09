@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select_ui-dropdown-trigger-icon ui-cli_588100</name>
+   <tag></tag>
+   <elementGuidId>8d06bbfd-e219-4409-bdb8-ece151b28d5d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-dropdown-trigger-icon.ui-clickable.ng-tns-c50-130.fas.fa-angle-down</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/div/app-case360/div[2]/div/div/div[2]/div/app-case360-details/div[2]/div[4]/app-case-detail/form/roots-dialog/div/div[2]/div/div/div/div/roots-dropdown/div/div[4]/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;main&quot;]/div/div/app-case360/div[2]/div/div/div[2]/div/app-case360-details/div[2]/div[4]/app-case-detail/form/roots-dialog/div/div[2]/div/div/div[1]/div/roots-dropdown/div/div[4]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c372cb97-b73f-4a8f-860c-4c00afd367af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-dropdown-trigger-icon ui-clickable ng-tns-c50-130 fas fa-angle-down</value>
+      <webElementGuid>6a85ae44-c869-4631-bbb7-af1517f1acc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;main&quot;]/div/div/app-case360/div[2]/div/div/div[2]/div/app-case360-details/div[2]/div[4]/app-case-detail/form/roots-dialog/div/div[2]/div/div/div[1]/div/roots-dropdown/div/div[4]/span</value>
+      <webElementGuid>94ad9ca7-ae4d-426e-b087-12d1398af955</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/app-case360/div[2]/div/div/div[2]/div/app-case360-details/div[2]/div[4]/app-case-detail/form/roots-dialog/div/div[2]/div/div/div/div/roots-dropdown/div/div[4]/span</value>
+      <webElementGuid>ba290f3b-539d-4d18-810b-2d9b4baa0f41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//roots-dialog/div/div[2]/div/div/div/div/roots-dropdown/div/div[4]/span</value>
+      <webElementGuid>16cadc3c-2f24-450c-b1c7-e19876462370</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

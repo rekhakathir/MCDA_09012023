@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Click on_Case Intake button</name>
+   <tag></tag>
+   <elementGuidId>7de9cbe3-8a77-4008-b2fe-9defd127d808</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//roots-dropdown[@inputid='divisionType']//div//div//label[contains(text(),'Select')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/div/app-case-intake/roots-dialog/div/div[2]/div/div/div/roots-dropdown/div/div[4]
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>17350031-5514-4137-acc2-9c4c36c2c994</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-trnsparent p-0 m-0 text-grayPrimaryColor</value>
+      <webElementGuid>e056f75e-cdfe-4e4d-91b5-471c84df27c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Case Intake</value>
+      <webElementGuid>c28889a7-1572-4980-b66d-4ac6eb5ac333</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//roots-dropdown[@inputid='divisionType']//div//div//label[contains(text(),'Select')]</value>
+      <webElementGuid>d47663da-ce78-4e03-b37e-bcad2f993f7f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarSupportedContent']/ul/li/roots-dialog/div/div/div/div[3]/ul/li[3]/a/button</value>
+      <webElementGuid>1fbb91e6-566c-4553-851b-63171a05d8ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Case Referral'])[1]/following::button[1]</value>
+      <webElementGuid>065d2415-9e4f-49f2-a703-56e44f77d1d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Cases'])[1]/following::button[2]</value>
+      <webElementGuid>3fcde3ca-614a-4730-a6d5-e7b5da895bee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Press Enter to open the Dialog box and then use navigation keys to navigate'])[1]/preceding::button[1]</value>
+      <webElementGuid>2df0b7ba-c3d2-4395-8641-0dd190757998</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Press Enter to open the Dialog box and then use navigation keys to navigate'])[2]/preceding::button[1]</value>
+      <webElementGuid>ca0ceab4-1101-4be0-9834-52b557031bd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Case Intake']/parent::*</value>
+      <webElementGuid>04115350-f8b1-4444-93b9-2ac0913a2096</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li[3]/a/button</value>
+      <webElementGuid>abe2dddc-10cc-4453-9029-6b4570f7561d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Case Intake' or . = ' Case Intake')]</value>
+      <webElementGuid>82d18a21-396b-48c0-923b-54c024d97b03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
